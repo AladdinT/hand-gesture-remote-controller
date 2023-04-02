@@ -5,8 +5,12 @@ Estimates hand pose using MediaPipe.<br>
 This is a sample program that recognizes hand gestures with a simple MLP using the detected key points.
 <br> 
 _️**This is forked from [kinivi/hand-gesture-recognition-mediapipe](https://github.com/kinivi/hand-gesture-recognition-mediapipe).**_
-<br> 
-![animated gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif "animation")
+<br>
+The main aim is to replace a remote controller with some hand gestures. As this model is intended to be used in a smart mirror application as a navigator.
+
+<br>
+
+![animated gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif)
 
 # Demo
 Here's how to run the demo using your webcam.
