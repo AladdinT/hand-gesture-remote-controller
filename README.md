@@ -9,8 +9,11 @@ _️**This is forked from [kinivi/hand-gesture-recognition-mediapipe](https://gi
 The main aim is to replace a remote controller with some hand gestures. As this model is intended to be used in a smart mirror application as a navigator.
 
 <br>
+.
 
-![animated gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif =250x250)
+![animated_gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif)
+
+<br>
 
 # Demo
 Here's how to run the demo using your webcam.
