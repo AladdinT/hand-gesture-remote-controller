@@ -10,7 +10,7 @@ The main aim is to replace a remote controller with some hand gestures. As this 
 
 <br>
 
-![animated gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif)
+![animated gif](https://raw.github.com/AladdinT/hand-gesture-remote-controller/main/media/animation.gif =250x250)
 
 # Demo
 Here's how to run the demo using your webcam.
